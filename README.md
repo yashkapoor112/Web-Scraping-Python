@@ -4,5 +4,5 @@ Also maps out the results on a graph.
 
 *Note- Change the location of the Chrome Driver According to your system.*
 
-[Click](https://sites.google.com/a/chromium.org/chromedriver/home) here to download the latest webdriver for Chrome.
+Click [here](https://sites.google.com/a/chromium.org/chromedriver/home) to download the latest webdriver for Chrome.
 
